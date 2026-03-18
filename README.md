@@ -1,6 +1,3 @@
-# Predicting-NBA-Shots
-Machine learning project to predict NBA shot success using player and game features. Includes logistic regression, SVM, Naive Bayes, neural networks, random forests, and boosting models, along with data preprocessing and analysis.
-
 # Predicting NBA Shots
 
 Machine learning project to predict NBA shot success using player and game features. This project explores various algorithms including logistic regression, SVM, Naive Bayes, neural networks, random forests, and boosting, with full data preprocessing, analysis, and evaluation.
